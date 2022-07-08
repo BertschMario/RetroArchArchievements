@@ -1,6 +1,6 @@
 {
   "creator": "Zocker_PlayTV",
-  "server_version": "1.2.1",
+  "server_version": "1.2.2",
   "client_version": "0.4.1",
   "server_port": 3000,
   "server_host": "127.0.0.1"
