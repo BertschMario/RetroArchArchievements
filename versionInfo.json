@@ -1,0 +1,16 @@
+[
+  {
+    "version":  "0.4.2",
+    "description": "Auto Test",
+    "date_create": "12.07.2022",
+    "changes_client": [
+      "Version und Änderungen werden im Home angezeigt",
+      "Schriftart in der Oberfläche geändert"
+    ],
+    "changes_server": [
+      "Tools für zusätzliche funktionen",
+      "Tools => Test_Server.exe zum testen vom Server"
+    ],
+    "removed_features": []
+  }
+]
