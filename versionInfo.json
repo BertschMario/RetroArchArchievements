@@ -1,5 +1,19 @@
 [
   {
+    "version":  "0.5.0",
+    "description": "Design & Animations",
+    "date_create": "14.07.2022",
+    "changes_client": [
+      "Hintergund und Text Farben geändert",
+      "Animationen und generlles Design geändert",
+      "Bug Repost / Request Feature"
+    ],
+    "changes_server": [
+      "Add Mail Service"
+    ],
+    "removed_features": []
+  },
+  {
     "version":  "0.4.2",
     "description": "Auto Test",
     "date_create": "12.07.2022",
