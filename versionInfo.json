@@ -1,5 +1,29 @@
 [
   {
+    "version":  "0.6.0",
+    "description": "Design RetroArch-Control/-Module & Refactor",
+    "date_create": "16.07.2022",
+    "changes_client": [
+      "Einstellungen für RetroArch-Control",
+      "Design anpassungen für RetroArch-Control/-Module",
+      "Complete Animationen für RetroArch-Module",
+      "Design anpassungen für Home und Menü",
+      "Fix API reqeust error messages",
+      "Fix HomeMenu Click-Event"
+    ],
+    "changes_server": [
+      "Get/Post RetroArch Data",
+      "Get/Post Watermark",
+      "Get/Post Complete",
+      "WaterMark data",
+      "Fix GetData crash",
+      "Fix PostData crash",
+      "Fix GetSelected crash",
+      "Fix PostSelected crash"
+    ],
+    "removed_features": []
+  },
+  {
     "version":  "0.5.0",
     "description": "Design & Animations",
     "date_create": "14.07.2022",
