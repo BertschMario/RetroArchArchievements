@@ -1,5 +1,16 @@
 [
   {
+    "version":  "0.6.0_1",
+    "description": "Fix Server crash",
+    "date_create": "17.07.2022",
+    "changes_client": [],
+    "changes_server": [
+      "Fix memory leak",
+      "Add request processing pipe"
+    ],
+    "removed_features": []
+  },
+  {
     "version":  "0.6.0",
     "description": "Design RetroArch-Control/-Module & Refactor",
     "date_create": "16.07.2022",
