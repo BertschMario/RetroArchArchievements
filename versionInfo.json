@@ -1,12 +1,13 @@
 [
   {
-    "version":  "0.6.0_1",
+    "version":  "0.6.0_2",
     "description": "Fix Server crash",
     "date_create": "17.07.2022",
     "changes_client": [],
     "changes_server": [
       "Fix memory leak",
-      "Add request processing pipe"
+      "Add request processing pipe",
+      "Fix UncaughtErrors"
     ],
     "removed_features": []
   },
