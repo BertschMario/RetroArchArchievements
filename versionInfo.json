@@ -4,7 +4,8 @@
     "description": "Fix Server Errors + Logging",
     "date_create": "18.07.2022",
     "changes_client": [
-      "Path Logging"
+      "Path Logging",
+      "Fix Image position"
     ],
     "changes_server": [
       "Fix Uncaught Error",
