@@ -1,13 +1,27 @@
 [
   {
-    "version":  "0.6.0_2",
+    "version":  "0.6.1",
+    "description": "Fix Server Errors + Logging",
+    "date_create": "18.07.2022",
+    "changes_client": [
+      "Path Logging"
+    ],
+    "changes_server": [
+      "Fix Uncaught Error",
+      "Add Server Logging"
+    ],
+    "removed_features": [
+      "Error Logging"
+    ]
+  },
+  {
+    "version":  "0.6.0_1",
     "description": "Fix Server crash",
     "date_create": "17.07.2022",
     "changes_client": [],
     "changes_server": [
       "Fix memory leak",
-      "Add request processing pipe",
-      "Fix UncaughtErrors"
+      "Add request processing pipe"
     ],
     "removed_features": []
   },
