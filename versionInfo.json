@@ -1,5 +1,17 @@
 [
   {
+    "version":  "0.6.1_1",
+    "description": "Small server changes",
+    "date_create": "23.07.2022",
+    "changes_client": [],
+    "changes_server": [
+      "Improved server logging",
+      "Improved server performance",
+      "Add new server commands"
+    ],
+    "removed_features": []
+  },
+  {
     "version":  "0.6.1",
     "description": "Fix Server Errors + Logging",
     "date_create": "18.07.2022",
@@ -31,11 +43,11 @@
     "description": "Design RetroArch-Control/-Module & Refactor",
     "date_create": "16.07.2022",
     "changes_client": [
-      "Einstellungen für RetroArch-Control",
-      "Design anpassungen für RetroArch-Control/-Module",
-      "Complete Animationen für RetroArch-Module",
-      "Design anpassungen für Home und Menü",
-      "Fix API reqeust error messages",
+      "Settings for RetroArch-Control",
+      "Design changes for RetroArch-Control/-Module",
+      "Complete animation for RetroArch-Module",
+      "Design changes for Home and Menu",
+      "Fix API request error messages",
       "Fix HomeMenu Click-Event"
     ],
     "changes_server": [
@@ -55,8 +67,8 @@
     "description": "Design & Animations",
     "date_create": "14.07.2022",
     "changes_client": [
-      "Hintergund und Text Farben geändert",
-      "Animationen und generlles Design geändert",
+      "Background and Text Color changed",
+      "Animations and general design changed",
       "Bug Repost / Request Feature"
     ],
     "changes_server": [
@@ -69,12 +81,12 @@
     "description": "Auto Test",
     "date_create": "12.07.2022",
     "changes_client": [
-      "Version und Änderungen werden im Home angezeigt",
-      "Schriftart in der Oberfläche geändert"
+      "Version and changes are displayed in the Home",
+      "Font changed in the Home and Controls"
     ],
     "changes_server": [
-      "Tools für zusätzliche funktionen",
-      "Tools => Test_Server.exe zum testen vom Server"
+      "Tools for more functionality",
+      "Tools => Test_Server.exe for easy server testing"
     ],
     "removed_features": []
   }
